@@ -18,7 +18,10 @@ public class SeleniumTest {
 		
 
 	}
-	
+	@Test
+	public void elementSuitt() {
+		System.out.println("elementSuiting");
+	}
 	
 	
 	
