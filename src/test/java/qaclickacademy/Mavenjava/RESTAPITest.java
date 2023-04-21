@@ -22,4 +22,9 @@ public class RESTAPITest {
 
 	}
 
+	@Test
+	public void deleteTwittering() {
+		System.out.println("deleteTwitter");
+
+	}
 }
