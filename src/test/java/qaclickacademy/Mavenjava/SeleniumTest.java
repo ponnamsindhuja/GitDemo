@@ -22,7 +22,10 @@ public class SeleniumTest {
 	public void elementSuitt() {
 		System.out.println("elementSuiting");
 	}
-	
+	@Test
+	public void elementSuittt() {
+		System.out.println("elementSuiting");
+	}
 	
 	
 	
